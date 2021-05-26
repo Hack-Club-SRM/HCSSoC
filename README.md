@@ -40,6 +40,7 @@ Like the Community of Hack Club SRM, HCSSoC is open for every individual enrolle
 | 28th May | Project Application Starts | Mentors and Organizations start submitting their project proposals. |
 | 9th June | Projects Announced | Projects shortlisted for HCSSoC will be announced. |
 | 10th June | Student Application Starts | Students can start registering for at max 2 projects during this phase. |
+| 14th June | Workshop on Basics of Git and GitHub | A Hands-On Session for students to introduce them to Git and GitHub. |
 | 19th June | Phase 1 | HCSSoC takes off and tasks are handed out to participants. |
 | 29th June | Phase 2 | Post progress check, second round tasks are assigned. |
 | 9th July | Phase 3 | Progress of the previous two phases is assessed and the documentation phase commences. |
@@ -49,7 +50,11 @@ Like the Community of Hack Club SRM, HCSSoC is open for every individual enrolle
 
 ![Participating](assets/Participating.png)
 # Participating
-TBA
+## Project Application
+If you are a Mentor or represent an Organization, head over to `PROJECT_APPLICATION.md` for details or click [here](PROJECT_APPLICATION.md).
+
+## Student Application
+We shall start accepting Student Applications from **10th June**. Watch this space for updates!
 
 ![FAQ](assets/FAQ.png)
 # FAQ
