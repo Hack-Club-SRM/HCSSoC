@@ -4,7 +4,7 @@
 | Date | Header | Description |
 | ----- | -------- | -------- |
 | 28th May | Project Application Starts | Mentors and Organizations start submitting their project proposals. |
-| 7th June | Project Application Deadline | Hard deadline for submitting Project Application Proposal. |
+| 7th June | Project Application Deadline | Hard deadline for submitting Project Proposal. |
 | 9th June | Projects Announced | Projects shortlisted for HCSSoC will be announced. |
 
 ## Submitting Project Application
