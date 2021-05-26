@@ -23,7 +23,7 @@ Like the Community of Hack Club SRM, HCSSoC is open for every individual enrolle
  - All students of SRM Institute of Science and Technology, Kattankulathur, will receive a Sticker Pack upon successful participation.
  - Two students per project (recognized by Hack Club SRM) with most number of contributions* will take home a schwag kit.
 
-*NOTE: We do not count the quantity of commits or contributions but the quality of code.*
+`NOTE: We do not count the quantity of commits or contributions but the quality of code.`
 
 ## For Mentors
  - Mentors get to connect with young developers and build connections.
@@ -53,19 +53,27 @@ TBA
 
 ![FAQ](assets/FAQ.png)
 # FAQ
-<details><summary><h3>Is participating in HCSSoC free?</h3></summary>
+
+<details open><summary><b>Is participating in HCSSoC free?</b></summary>
 Absolutely! All events organized by Hack Club SRM are proudly free of cost!</details>
 
-<details><summary><h3>Will I get paid for participating?</h3></summary>
+<details><summary><b>Will I get paid for participating?</b></summary>
 No, however, we have amazing schwag kits, sticker packs and other rewards for our participants!</details>
 
-<details><summary><h3>Can I submit more than one proposal?</h3></summary>
+<details><summary><b>Can I submit more than one proposal?</b></summary>
 We would recommend you to submit only one proposal so it's an easier and smoother experience for you, but we allow participants to be a part of at most 2 projects.</details>
 
-<details><summary><h3>Can I participate both as a Mentor and as a Participant as well?</h3></summary>
+<details><summary><b>Can I participate both as a Mentor and as a Participant as well?</b></summary>
 Unfortunately, the answer would be no. As a Mentor, we would want you to be readily available for queries that students might have and we doubt that it would be possible for you if you are also a student attendee.
 </details>
+
+`Click on the tabs for details.`
 
 ![Code of Conduct](assets/Conduct.png)
 # Code of Conduct
 At Hack Club SRM Summer of Code, we'll be implementing the same Code of Conduct that we follow for the Community, available [here](https://github.com/Hack-Club-SRM/Code-of-Conduct).
+
+## Contributors
+<a href="https://github.com/Hack-Club-SRM/HCSSoC/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Hack-Club-SRM/HCSSoC" />
+</a>
