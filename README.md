@@ -21,13 +21,13 @@ Like the Community of Hack Club SRM, HCSSoC is open for every individual enrolle
  - Students have the flexibility to contribute to at most 2 projects of their choice.
  - They receive the opportunity to be paired up with amazing mentors, many of them representing reputed organizations.
  - All students of SRM Institute of Science and Technology, Kattankulathur, will receive a Sticker Pack upon successful participation.
- - Two students per project (recognized by Hack Club SRM) with most number of contributions* will take home a swag kit.
+ - Two students per project (recognized by Hack Club SRM) with most number of contributions* will take home a schwag kit.
 
 *NOTE: We do not count the quantity of commits or contributions but the quality of code.*
 
 ## For Mentors
  - Mentors get to connect with young developers and build connections.
- - All mentors who guide and encourage students participating in HCSSoC throughtout the program are eligible for swag kits!
+ - All mentors who guide and encourage students participating in HCSSoC throughtout the program are eligible for schwag kits!
 
 ## For Organizations
  - Organizations participating in HCSSoC receive the opportunity to work with young minds and have them contribute to their codebase.
@@ -35,7 +35,17 @@ Like the Community of Hack Club SRM, HCSSoC is open for every individual enrolle
 
 ![Timeline](assets/Timeline.png)
 # Timeline
-TBA
+| Date | Header | Description |
+| ----- | -------- | -------- |
+| 28th May | Project Application Starts | Mentors and Organizations start submitting their project proposals. |
+| 9th June | Projects Announced | Projects shortlisted for HCSSoC will be announced. |
+| 10th June | Student Application Starts | Students can start registering for at max 2 projects during this phase. |
+| 19th June | Phase 1 | HCSSoC takes off and tasks are handed out to participants. |
+| 29th June | Phase 2 | Post progress check, second round tasks are assigned. |
+| 9th July | Phase 3 | Progress of the previous two phases is assessed and the documentation phase commences. |
+| 19th July | Successful Students Announced | Students who have successfully completed HCSSoC will be acknowledged. |
+| 23rd July | Top Contributors Announced | Participants recommended by mentors will be acknowledged. Certificates will be sent out to all. |
+
 
 ![Participating](assets/Participating.png)
 # Participating
@@ -43,7 +53,19 @@ TBA
 
 ![FAQ](assets/FAQ.png)
 # FAQ
-TBA
+<details><summary><h3>Is participating in HCSSoC free?</h3></summary>
+Absolutely! All events organized by Hack Club SRM are proudly free of cost!</details>
+
+<details><summary><h3>Will I get paid for participating?</h3></summary>
+No, however, we have amazing schwag kits, sticker packs and other rewards for our participants!</details>
+
+<details><summary><h3>Can I submit more than one proposal?</h3></summary>
+We would recommend you to submit only one proposal so it's an easier and smoother experience for you, but we allow participants to be a part of at most 2 projects.</details>
+
+<details><summary><h3>Can I participate both as a Mentor and as a Participant as well?</h3></summary>
+Unfortunately, the answer would be no. As a Mentor, we would want you to be readily available for queries that students might have and we doubt that it would be possible for you if you are also a student attendee.
+</details>
+
 ![Code of Conduct](assets/Conduct.png)
 # Code of Conduct
 At Hack Club SRM Summer of Code, we'll be implementing the same Code of Conduct that we follow for the Community, available [here](https://github.com/Hack-Club-SRM/Code-of-Conduct).
