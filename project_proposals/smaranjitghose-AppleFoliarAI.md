@@ -10,7 +10,7 @@
 
 **Institution**: Columbia University
 
-**Submission Type**: Mentor/Organization
+**Submission Type**: Mentor
 
 <hr>
 
