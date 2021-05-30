@@ -13,6 +13,11 @@ HCCSoC is going to be a month long journey commencing from 19th June, 2021, so g
 
 Like the Community of Hack Club SRM, HCSSoC is open for every individual enrolled at any educational institution as of 18th June, 2021. What does that mean -- no shortlisting!
 
+## Sponsors
+![Hack Club](assets/sponsors/hackclub.svg)
+![StickerMule](assets/sponsors/stickermule.png)
+![HackerEarth](assets/sponsors/hackerearth.png) <br>
+
 ![Perks](assets/Perks.png)
 # What HCSSoC Offers
 ## For Students
