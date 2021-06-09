@@ -9,7 +9,7 @@
 <hr>  
 
 ## Project Details
-**Name of Project**: Advanced-Eye-Tracking
+**Name of Project**: Advanced-Eye-Tracker
 **GitHub Repository Link**: https://github.com/Akash-Ramjyothi/Advanced-Eye-Tracking
 **Project Description**: Developed an advanced eye-tracking system with OpenCV and data extracted from a recorded .flv file. The program bounds the box of the iris and scales on the axis.
 **Domain**: AI, ML, Computer Vision.
