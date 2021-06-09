@@ -31,7 +31,6 @@ We support the following features:
 - Options to customize the size of the scanned pages (Crop)
 
 - Share across various platforms with one click
-
 **Domain**:  Web and App Development
 **Technology Stack**: REACT JS, FLUTTER, HTML, ML, FIREBASE
 **Images**: ![Image](https://raw.githubusercontent.com/smaranjitghose/DocLense/main/assets/doclense.png)
