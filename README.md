@@ -13,11 +13,6 @@ HCCSoC is going to be a month long journey commencing from 19th June, 2021, so g
 
 Like the Community of Hack Club SRM, HCSSoC is open for every individual enrolled at any educational institution as of 18th June, 2021. What does that mean -- no shortlisting!
 
-## Sponsors
-![Hack Club](assets/sponsors/hackclub.svg)
-![StickerMule](assets/sponsors/stickermule.png)
-![HackerEarth](assets/sponsors/hackerearth.png) <br>
-
 ![Perks](assets/Perks.png)
 # What HCSSoC Offers
 ## For Students
@@ -33,10 +28,6 @@ Like the Community of Hack Club SRM, HCSSoC is open for every individual enrolle
 ## For Mentors
  - Mentors get to connect with young developers and build connections.
  - All mentors who guide and encourage students participating in HCSSoC throughtout the program are eligible for schwag kits!
-
-## For Organizations
- - Organizations participating in HCSSoC receive the opportunity to work with young minds and have them contribute to their codebase.
- - Organizations who are actively on the lookout for interns can consider our pool of prospective candidates.
 
 ![Timeline](assets/Timeline.png)
 # Timeline
@@ -56,10 +47,37 @@ Like the Community of Hack Club SRM, HCSSoC is open for every individual enrolle
 ![Participating](assets/Participating.png)
 # Participating
 ## Project Application
-If you are a Mentor or represent an Organization, head over to `PROJECT_APPLICATION.md` for details or click [here](PROJECT_APPLICATION.md).
+We are no longer accepting Project Applications. Regardless, thanks for considering!
+
+## Projects
+| Author | Project Name | Project Link |
+| ----- | -------- | -------- |
+| [smaranjitghose](https://www.github.com/smaranjitghose) | AppleFoliarAI | [Link](https://github.com/smaranjitghose/AppleFoliarAI) |
+| [smaranjitghose](https://www.github.com/smaranjitghose) | Upcharika | [Link](https://github.com/smaranjitghose/Upcharika) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | Code HCJ | [Link](https://github.com/Akash-Ramjyothi/Coder-HCJ) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | TypeColab | [Link](https://github.com/Akash-Ramjyothi/TypeColab) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | WriteTogether | [Link](https://github.com/Akash-Ramjyothi/Write-Together) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | Chatterbox | [Link](https://github.com/Akash-Ramjyothi/Chatterbox) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | The Talker | [Link](https://github.com/Akash-Ramjyothi/The-Talker) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | Text Recognition Android App | [Link](https://github.com/Akash-Ramjyothi/Text-Recognition-Android-App) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | Bulk Email Sender | [Link](https://github.com/Akash-Ramjyothi/Bulk-Email-Sender) |
+| [Ayush7614](https://github.com/Ayush7614) | Daily Coding DS ALGO Practice | [Link](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice) |
+| [Ayush7614](https://github.com/Ayush7614) | Bundli Frontend | [Link](https://github.com/Ayush7614/Bundli-Frontend) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | AAI QR Reader | [Link](https://github.com/Akash-Ramjyothi/Airport-Authority-of-India-QR-Scanner) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | Road Recognition and Extraction | [Link](https://github.com/Akash-Ramjyothi/Satellite-Image-Road-Recognition) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | IBM Watson Translator | [Link](https://github.com/Akash-Ramjyothi/IBM-Watson-Translator-Android) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | Advanced Eye Tracker | [Link](https://github.com/Akash-Ramjyothi/Advanced-Eye-Tracking) |
+| [akash-ramjyothi](https://github.com/Akash-Ramjyothi) | Simple ToDo | [Link](https://github.com/Akash-Ramjyothi/Simple-ToDo) |
+| [anushbhatia](https://github.com/anushbhatia) | DocLense | [Link](https://github.com/smaranjitghose/DocLense) |
+| [anushbhatia](https://github.com/anushbhatia) | Devtree | [Link](https://github.com/anushbhatia/devtree) |
 
 ## Student Application
-We shall start accepting Student Applications from **10th June**. Watch this space for updates!
+To Submit a new Application, follow these steps:
+1. Click on the `Issues` Tab.
+2. Select `New Issue`.
+3. Now find the Issue Template named `Student Application` and click on `Get Started`.
+4. Fill out all the details. Submit a new issue for every project.
+5. Hit `Submit New Issue` and you are all set!
 
 ![FAQ](assets/FAQ.png)
 # FAQ
