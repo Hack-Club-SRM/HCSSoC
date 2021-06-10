@@ -73,11 +73,13 @@ We are no longer accepting Project Applications. Regardless, thanks for consider
 
 ## Student Application
 To Submit a new Application, follow these steps:
+
 1. Click on the `Issues` Tab.
 2. Select `New Issue`.
 3. Now find the Issue Template named `Student Application` and click on `Get Started`.
 4. Fill out all the details. Submit a new issue for every project.
 5. Hit `Submit New Issue` and you are all set!
+`Don't forget to Star the Repository!`
 
 ![FAQ](assets/FAQ.png)
 # FAQ
